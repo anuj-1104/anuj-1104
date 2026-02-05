@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   
-# Hi there, I'm [Anuj Dalvadi] 👋
+# Hi there, I'm Anuj Dalvadi 👋
 
 ## 🛠️ Tech Stack
 - Languages: JavaScript, Python, c, java
